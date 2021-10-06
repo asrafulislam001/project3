@@ -1,0 +1,10 @@
+body{
+	background-color: lightblue;
+	margin-left: 20px;
+}
+.button{
+	margin: 0px;
+	padding: 5px;
+	border: 1px solid green;
+	background-color: lightcyan;
+}
